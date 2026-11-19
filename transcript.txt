@@ -1,0 +1,158 @@
+Do Bigger Slugs Carry More Worms?
+Website transcript (all text from the website, no images)
+
+
+HOME PAGE
+
+Do bigger slugs carry more worms?
+
+A lot of slugs have tiny worms called nematodes living inside them. Our BI 221 class collected 148 slugs this fall, and we wanted to see if the bigger ones had more worms.
+
+Pages
+1. Nematodes and slugs: What nematodes are and why anyone cares about them.
+2. Our question: Do bigger slugs have more nematodes?
+3. How we tested it: How our class collected slugs and counted the worms.
+4. What we found: Bigger slugs had nematodes more often, but it's more complicated than that.
+5. What it means: What we think our results mean.
+
+
+PAGE 1: NEMATODES AND SLUGS
+
+What is a nematode?
+Nematodes are roundworms. They are really small organisms usually seen under a microscope. They live pretty much everywhere, including soil, water, plants, and even inside of other animals. A lot of them are harmless, while some are parasites and live off of another animal. That animal is called the host.
+
+Figure 1. A male nematode (Phasmarhabditis zhejiangensis) that scientists collected from a slug in China, seen under a microscope. The scale bar is 150 micrometers, which is about the width of two human hairs. Photo from Zhang and Liu (2020), Figure 2A, CC BY 4.0.
+
+Nematodes that live in slugs
+Slugs can have nematodes more often than you would think. A team in Norway checked 611 wild slugs and found nematodes in about 1 out of every 5. They found five different kinds of nematodes too (Ross et al. 2016). Some slugs get them more than others. Another study done in Norway found that an invasive slug had nematodes more often than the native slugs and snails living near it (Antzée-Hyllseth et al. 2020).
+
+Why do they matter?
+Slugs are a big problem for farms and gardens because they eat plants. One nematode, Phasmarhabditis hermaphrodita, kills slugs. Many people buy it and use it to get rid of them (Speiser et al. 2001; Antzée-Hyllseth et al. 2020).
+
+While nematodes usually are not harmful, some are able to hurt humans and animals as well. Rat lungworm lives inside slugs and snails for part of its life. If someone eats an infected slug or snail, it can cause a serious illness (Medeiros et al. 2020).
+
+It is very useful to know which slugs have the most nematodes. It could help predict where these worms will show up most as well as which of these slugs the slug-killing nematodes will work on.
+
+
+PAGE 2: OUR QUESTION
+
+Some of the slugs we found were smaller than a fingernail and some were longer than a hand. We wondered if the size of the slug changes how many worms that they have.
+
+Question
+Is the number of nematodes in a slug related to how big the slug is?
+
+Hypothesis
+Slug size affects how many nematodes a slug has. Bigger slugs have more body for nematodes to live in. They've also usually been alive longer, so they've had more time to pick up nematodes from the soil and plants around them.
+
+Prediction
+If slug size affects how many nematodes a slug has, then heavier and longer slugs will have more nematodes than lighter and shorter slugs.
+
+Figure 2. A small slug and a big slug. Left is a gray field slug (Deroceras reticulatum) from Portland, OR, photo by jemmamontgomery on iNaturalist, CC0. The right slug is a Pacific banana slug (Ariolimax columbianus) from Lincoln City, OR, photo by rappman on iNaturalist, CC BY. In our data, the typical field slug weighed 0.6 grams and the typical banana slug weighed 17 grams.
+
+
+PAGE 3: HOW WE TESTED IT
+
+We compared the sizes of the slugs to the amount of nematodes found on their plates.
+
+The setup
+In October 2026, every lab group in BI 221 (33 sections in total) went out and found a wild slug, either on campus or off campus. Most came from forests, yards, or around town (BI 221 Lab Manual 2026). After that, each group:
+1. Wrote down where they found the slug and what kind it was.
+2. Weighed it in grams and measured how long it was in centimeters.
+3. Put the slug on a plate so the nematodes inside could come out.
+4. Counted the nematodes under a microscope, plus how many different kinds there were.
+5. Put everything into a shared class spreadsheet.
+
+Figure 3. Rory Mc Donnell, a slug researcher at Oregon State University, looking for slugs in a field. Photo by Maria Cordoba, Oregon State University, on Flickr, CC BY-SA 2.0.
+
+Our conditions
+This was an observational study, so we didn't give the slugs different treatments. We also split the slugs into small, medium, and large groups by weight, with the same number of slugs in each group. That made it easier to compare.
+
+What we measured
+- Slug size, which was weight (grams) and length (centimeters)
+- Nematode abundance, meaning the total number of nematodes on the slug's plate
+- What kind of slug it was, if it was found on or off campus, and the habitat
+
+Cleaning up the data
+The class spreadsheet had some problems, so we had to clean it up first. We took out entries that didn't have a slug or a count. We also took out sizes that couldn't be right, like a 283 gram garden slug (that's heavier than a baseball). Sometimes the same slug was entered twice or shared between tables, so we only counted it once. After all that we had 148 slugs.
+
+To see if size and nematode count were connected, we used a Spearman correlation. Basically it tells you if one number tends to go up when the other one goes up. It goes from -1 (they go in opposite directions) to 0 (no connection) to +1 (they always go up together).
+
+
+PAGE 4: WHAT WE FOUND
+
+The numbers varied a lot, as some slugs had zero nematodes and one had 2,660.
+
+148 slugs total, and about two-thirds of them were Pacific banana slugs
+80 slugs (54%) had at least one nematode
+Half of the slugs had 3 nematodes or fewer
+
+All slugs together
+When we looked at all the slugs together, heavier slugs had a few more nematodes. The connection was weak, but it was statistically significant. Only about a third of the small slugs had any nematodes, while about two-thirds of the medium and large slugs did. Slug length showed the same weak pattern.
+
+Figure 4. Each dot is one slug (148 total). Blue dots are Pacific banana slugs and orange dots are every other kind. We stretched both axes so the small numbers are easier to see, so each grid line is 10 times the one before it. Dots on the bottom line had zero nematodes.
+
+Banana slugs only
+Then we looked at just the Pacific banana slugs (99 slugs). This time the pattern went away. Small, medium, and large banana slugs all had nematodes about the same amount of the time (61 to 64%), and the big ones didn't have higher counts. You can see it in Figure 4, where the blue dots go from zero to over 2,000 at pretty much every weight.
+
+Figure 5. Percent of slugs that had at least one nematode. We split the slugs into three groups by weight with the same number in each. The left side is all slugs (148) and the right side is only banana slugs (99).
+
+Our test results (Spearman correlation between slug weight and nematode count)
+All slugs: rho = 0.25, p = 0.002, a weak positive connection
+Banana slugs only: rho = 0.04, p = 0.67, no connection
+Only slugs that had nematodes: rho = 0.18, p = 0.11, no clear connection
+
+
+PAGE 5: WHAT IT MEANS
+
+Bigger slugs did have nematodes more often. We think that's mostly because the big slugs and small slugs were different kinds of slugs.
+
+Back to our question
+Our question was whether the number of nematodes in a slug is related to how big it is, and we predicted bigger slugs would have more. Our results only partly supported that. With all 148 slugs together, bigger slugs had nematodes more often, like we predicted. When we only looked at one kind of slug (Pacific banana slugs), size didn't matter at all.
+
+We think slug size and slug type got mixed up in our data. Most of the small slugs (40 out of 49) weren't banana slugs. They were smaller kinds like field slugs, and none of the 9 field slugs had a single nematode. Banana slugs are big, and most of them had nematodes no matter how big they were. So it looks like the kind of slug matters more than the size. That means our hypothesis wasn't supported when we compared slugs of the same kind.
+
+Figure 6. Percent of slugs with nematodes for each kind of slug we had at least 9 of. The kind of slug made more of a difference than size did.
+
+How this fits with other research
+Our results line up with what other scientists have found. In Hawaii, researchers checked 16 kinds of slugs and snails for rat lungworm, which is a nematode. Whether an animal was infected depended on what kind it was and also how big it was, and size mattered differently for different kinds. They also found that once an animal was infected, the bigger ones weren't more packed with worms (Medeiros et al. 2020). We saw something similar. Among the slugs that had nematodes, the bigger ones didn't clearly have more.
+
+A study in Norway also showed that slug type matters. The invasive slug Arion vulgaris had nematodes 49% of the time, which was more than the native slugs and snails. It also had more nematodes than one of the native slugs (Antzée-Hyllseth et al. 2020).
+
+Size can still matter sometimes, though. In a lab experiment, a slug-killing nematode hurt small slugs of one kind a lot but barely affected the big ones. For a second kind of slug, size didn't make a difference (Speiser et al. 2001). So whether size matters probably depends on which slug and which nematode you're looking at.
+
+We also found nematodes in way more of our slugs (54%) than the Norway survey did (about 19%; Ross et al. 2016). That could be because of the location, the weather, the kinds of slugs, or how the nematodes were counted.
+
+Limitations
+- Our study only shows a connection, not a cause. Something else, like the slug's age or where it lived, could explain it.
+- About two-thirds of our slugs were banana slugs, so we didn't have many of the other kinds.
+- Lots of different groups did the counting, so some counts are probably more accurate than others. We also had to throw out some entries.
+- All the slugs were collected in the same month in the same part of Oregon.
+
+If we did this again, we'd collect a lot of slugs of just one kind, from tiny to huge, all from the same spot. That way the kind of slug couldn't mess up the results.
+
+
+REFERENCES
+
+Antzée-Hyllseth H, Trandem N, Torp T, Haukeland S. 2020. Prevalence and parasite load of nematodes and trematodes in an invasive slug and its susceptibility to a slug parasitic nematode compared to native gastropods. Journal of Invertebrate Pathology 173:107372. doi:10.1016/j.jip.2020.107372
+
+BI 221 Lab Manual. 2026. BI 221Z Principles of Biology: Cells laboratory manual. Corvallis (OR): Oregon State University.
+
+BI 221Z Fall 2026 class. 2026. BI221Z F26 Nematode Data Entry (Responses), Slug Data [unpublished class data set]. Corvallis (OR): Oregon State University.
+
+Medeiros MCI, Rollins RL, Echaluse MV, Cowie RH. 2020. Species identity and size are associated with rat lungworm infection in gastropods. EcoHealth 17(2):183-193. doi:10.1007/s10393-020-01484-x
+
+Ross JL, Ivanova ES, Hatteland BA, Brurberg MB, Haukeland S. 2016. Survey of nematodes associated with terrestrial slugs in Norway. Journal of Helminthology 90(5):583-587. doi:10.1017/S0022149X15000784
+
+Speiser B, Zaller JG, Neudecker A. 2001. Size-specific susceptibility of the pest slugs Deroceras reticulatum and Arion lusitanicus to the nematode biocontrol agent Phasmarhabditis hermaphrodita. BioControl 46(3):311-320. doi:10.1023/A:1011469730322
+
+Zhang C-n, Liu Q-z. 2020. Phasmarhabditis zhejiangensis sp. nov. (Nematoda: Rhabditidae), a new rhabditid nematode from Zhejiang, China. PLoS ONE 15(11):e0241413. doi:10.1371/journal.pone.0241413 (Figure 1 photo, from Figure 2A, CC BY 4.0)
+
+Figure 2 photos: gray field slug, by jemmamontgomery, iNaturalist observation 120907957 (Portland, OR), CC0, https://www.inaturalist.org/observations/120907957. Pacific banana slug, by rappman, iNaturalist observation 39829423 (Lincoln City, OR), CC BY, https://www.inaturalist.org/observations/39829423.
+
+Homepage photo: Pacific banana slug, by hasfitz5, iNaturalist observation 12128171 (Tualatin River National Wildlife Refuge, OR), CC0, https://www.inaturalist.org/observations/12128171. The homepage nematode photo is the same as Figure 1 (Zhang and Liu 2020).
+
+Figure 3 photo: Cordoba M. 2016. Scouting for slugs. Oregon State University, Flickr, CC BY-SA 2.0. https://www.flickr.com/photos/oregonstateuniversity/50584991343/
+
+Figures 4-6 were made by our group from the class data set.
+
+AI use: Claude (Anthropic) was used to help clean the class data, run the statistics, make the figures, find sources, and draft the website text. Our group checked and edited all content.
